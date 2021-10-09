@@ -2,7 +2,7 @@
 module.exports = {
   fromDisplayText: '陈帅哥', // 收件箱展示的来件人名字
   fromDisplaySubText: '每日提醒', // 收件箱展示的次级标题
-  user: '157084520@qq.com ', // 发送者邮箱
+  user: '157084520@qq.com', // 发送者邮箱
   pass: 'xxdejkjgrspebieh', // 发送者邮箱MTP协议密码
   to: '157084520@qq.com', // 发送到谁，填邮箱
   weatherKey: '33369e365fe84eb68876f52a2ae51cca', // 和风天气key
